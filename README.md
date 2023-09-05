@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piyush
 - 👀 I’m interested in Speech focused NLP. (Multimodal and Multilingual)
 - 🌱 I’m currently working at CARE365.ai
-- 💞️ I’m looking to collaborate on most things speech
+- 💞️ I’m looking (though, not actively) to collaborate on most things speech
 - 📫 How to reach me on [LinkedIn](https://in.linkedin.com/in/piyush-pp)
 
 <!---
